@@ -1,0 +1,160 @@
+body
+{
+  font-family: "Montserrat-black";
+  text-align: center;
+}
+h1,h2,h3,h4,h5,h6
+{
+  font-family: "Montserrat-Black";
+}
+p{
+  font-size: 1.3rem;
+}
+/* Navbar */
+.navigation{
+  padding-bottom: 7rem;
+
+}
+.navbar-brand
+{
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  color: white;
+}
+.nav-item
+{
+  padding: 0 18px;
+  font-family: "Montserrat-Light";
+  font-size: 1.5rem;
+  color: black;
+  line-height: 3rem;
+  text-align: right;
+
+}
+.navbar-toggler{
+  font-size: 2rem;
+}
+.container-fluid
+{
+  background-color: #A9AF7E;
+  color:white;
+  padding: 3% 15%;
+  padding-bottom: 6rem;
+}
+.loshu-image
+{
+  height: 85%;
+  width: 100%;
+  text-align: left;
+}
+/* .intro-text{
+  text-align: center;
+} */
+.loshu-text{
+  font-size: 1.5rem;
+  /* padding-left: 60px; */
+  padding-top: 2rem;
+  text-align: center;
+  /* border-left: 1rem; */
+  /* margin-left:  */
+}
+/* History */
+.history-text{
+  background-color: #7D8F69;
+  padding: 5% 13%;
+  color: white;
+  font-size: 1.5rem;
+}
+.history-heading{
+  color: black;
+  font-size: 3rem;
+  padding-bottom: 30px;
+}
+/* Working */
+.working-plane{
+  background-color: #A9AF7E;
+  padding: 5% 15%;
+}
+.pricing-column{
+  padding-bottom: 1.3rem;
+}
+
+.horizontal-plane{
+padding-bottom: 7rem;
+}
+.vertical-plane{
+padding-top: 4rem;
+}
+.card-heading{
+  color:black;
+  font-size: 3rem;
+  padding-bottom: 7rem;
+}
+.icon{
+  font-size: 5rem;
+  padding-bottom: 9%;
+  /* padding-top: 3%; */
+}
+/* Calculator  */
+
+.calculator{
+  background-color: #7D8F69;
+  padding: 5% 15%;
+}
+.modify{
+  text-align: center;
+  font-size: 1.3rem;
+  padding-bottom: 3%;
+}
+.button-submit{
+  padding: 5%;
+  font-size: 1.8rem;
+}
+/* footer Section */
+.footer{
+  padding: 7% 15%;
+  background-color: #A9AF7E;
+  font-size: 2rem;
+}
+.copyright{
+  margin: 5% 0%;
+
+}
+
+ /* javascript effective code */
+.invisible{
+  visibility: hidden;
+  position: absolute;
+}
+
+/* Display page styling */
+.display-nav{
+  color: white;
+  padding: 0 7%;
+  padding-bottom: 3rem;
+}
+.display{
+  background-color: #A9AF7E
+
+}
+.present-number{
+  padding: 3% 7%;
+}
+.absent-number{
+  padding: 0% 7%;
+}
+.first-heading{
+
+  /* padding: 0% 0%; */
+}
+.second-heading{
+  padding: 0% 0%;
+}
+.space{
+  padding: 3% 3%;
+}
+.coloring
+{
+  background-color: #EEEEEE;
+  height: 95%;
+}
